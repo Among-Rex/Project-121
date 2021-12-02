@@ -1,0 +1,92 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+#google {
+  height:90px;
+}
+
+.heading {
+  background-color: teal;
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div {
+  float: none;
+  background: white ; 
+  padding: 10px;
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div2 {
+  font-size: 18px;
+}
+.result_para_tag {
+  box-shadow:5px 5px 5px grey;
+  background-color: grey;
+  border-radius: 25px;
+  font-size: 20px;
+  height: 300px;
+  width: 1000px;
+}
+
+.result_para_tag span {
+  white-space: pre-line;
+  height: 42px;
+}
+
+.copy_right_footer {
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: gray;
+  line-height: center;
+}
+
+b {
+  color: red;
+}
+
+#google {
+  color:purple
+}
+
+#net {
+  color:purple
+}
+
+#book {
+  height: 150px;
+  border-radius: 15px;
+}
+
+#money {
+  height: 150px;
+  border-radius: 15px;
+}
+
+#output_lens {
+  background-color: white;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-right: 5px;
+  border-radius: 15px;
+  color: black;
+}
+
+#output_net {
+  background-color: white;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-right: 5px;
+  border-radius: 15px;
+  color: black;
+}
